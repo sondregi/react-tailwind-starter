@@ -2,12 +2,7 @@
   "name": "react-tailwind-starter",
   "description": "A Tailwind CSS and Create React App starter kit.",
   "version": "0.1.0",
-  "author": {
-    "name": "Sondre Giæver",
-    "email": "hello@sondreg.net",
-    "url": "https://github.com/sondregi",
-    "twitter":  "https://twitter.com/SondreG2"
-  },
+  "author": "Sondre Giæver <hello@sondreg.net> (https://github.com/sondregi)",
   "keywords": [
     "tailwind",
     "tailwind css",
@@ -55,15 +50,5 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sondregi/react-tailwind-starter.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sondregi/react-tailwind-starter/issues"
-  },
-  "homepage": "https://github.com/sondregi/react-tailwind-starter#readme"
+  }
 }
